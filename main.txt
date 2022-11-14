@@ -1,0 +1,5 @@
+Name="Sejal"
+Company="Deloitte"
+Jobrole="Analyst"
+
+print("Hello I am {} in {} with the role of{}".format(Name,Company,Jobrole))

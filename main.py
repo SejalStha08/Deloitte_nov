@@ -1,4 +1,4 @@
 var1="Deloitte"
-city="Bengaluru"
+City="Mumbai"
 
-print("Hi, I am working in {} which is located in {} .format(var1,city))
+print("Hi, I am working in {} and my location is {} .format(var1,city))
